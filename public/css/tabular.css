@@ -54,7 +54,7 @@ ol.tasklist > li > ol > li {
 }
 
 ol.tasklist > li > ol > li.selected {
-  border-color: gray;  
+  -webkit-box-shadow: 0 0 5px #888;  
 }
 
 ol.tasklist > li > ol > li div {

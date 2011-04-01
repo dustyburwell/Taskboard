@@ -9,7 +9,7 @@
       } else  {
         selected.removeClass('selected');
         $(this).addClass('selected');
-        $('details').show();
+        //$('details').show();
       }
     });
   }
